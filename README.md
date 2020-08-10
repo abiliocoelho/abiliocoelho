@@ -15,5 +15,5 @@ Trabalho atualmente com as seguintes tecnologias:
 3. React Native
 4. Typescript
 
-
+Estou aberto para comversas sobre tecnologias e desenvolvimento WEB, sigam-me nas redes sociais.
  
