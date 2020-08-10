@@ -4,7 +4,9 @@
 <a href="https://www.linkedin.com/in/abilio-coelho-0542a2132/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Abilio%20Coelho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abilio-coelho-0542a2132/"/></a>
 <a href="mailto:abiliocoelho@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-abiliocoelho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abiliocoelho@gmail.com"/></a>
 
-### Olá meus amigos 👋
+```javascript
+console.log('Olá meus amigos 👋 ')
+```
 Eu me chamo Abílio, sou professor de informática no Instituto Federal do Maranhão e sou apaixonado pela *stack* JS, a qual me tornei desenvolvedor *full stack* certificado pela Rocketseat.
 
 Trabalho atualmente com as seguintes tecnologias: 
