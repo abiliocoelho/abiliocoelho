@@ -13,10 +13,11 @@ Trabalho atualmente com as seguintes tecnologias:
 1. Node.js
 2. React.js
 3. React Native
-4. Typescript
-5. GraphQL
-6. Strapi
-7. NextJs
+4. NextJs
+5. Typescript
+6. GraphQL
+7. Strapi
+
 
 Estou disponível para conversas sobre tecnologias e desenvolvimento WEB, sigam-me nas redes sociais.
  
