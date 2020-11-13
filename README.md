@@ -14,6 +14,9 @@ Trabalho atualmente com as seguintes tecnologias:
 2. React.js
 3. React Native
 4. Typescript
+5. GraphQL
+6. Strapi
+7. NextJs
 
 Estou disponível para conversas sobre tecnologias e desenvolvimento WEB, sigam-me nas redes sociais.
  
