@@ -20,8 +20,8 @@ Trabalho atualmente com as seguintes tecnologias:
 
 Estou disponível para conversas sobre tecnologias e desenvolvimento WEB, sigam-me nas redes sociais.
 
-<img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiliocoelho&langs_count=8)](https://github.com/abiliocoelho/github-readme-statsl" />
-<img width="434px" src="https://github-readme-stats.vercel.app/api?username=abiliocoelho&hide=contribs,prs" />
+<img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiliocoelho&layout=compact&theme=dracula)](https://github.com/abiliocoelho/github-readme-statsl" />
+<img width="434px" src="https://github-readme-stats.vercel.app/api?username=abiliocoelho&theme=dracula&show_icons=true&hide=contribs,prs" />
 
 
  
