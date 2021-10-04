@@ -19,7 +19,7 @@ Trabalho atualmente com as seguintes tecnologias:
 6. GraphQL
 7. Strapi
 
-Estou disponível para conversas sobre tecnologias e desenvolvimento WEB, sigam-me nas redes sociais.
+<p align="justify">Estou disponível para conversas sobre tecnologias e desenvolvimento WEB, sigam-me nas redes sociais.</p>
 
 <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiliocoelho&layout=compact&theme=dracula)](https://github.com/abiliocoelho/github-readme-statsl" />
 <img width="434px" src="https://github-readme-stats.vercel.app/api?username=abiliocoelho&theme=dracula&show_icons=true&hide=contribs,prs" />
