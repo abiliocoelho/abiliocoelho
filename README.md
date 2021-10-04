@@ -8,7 +8,7 @@
 console.log('Olá meus amigos 👋 ')
 ```
 <img align="right" src="https://github.com/abiliocoelho/abiliocoelho/blob/master/illustration.png" width="300"/>
-Eu me chamo Abílio, sou professor de informática no Instituto Federal do Maranhão e sou apaixonado pela stack JS, a qual me tornei desenvolvedor full stack certificado pela Rocketseat.
+<p align="justify">Eu me chamo Abílio, sou professor de informática no Instituto Federal do Maranhão e sou apaixonado pela stack JS, a qual me tornei desenvolvedor full stack certificado pela Rocketseat.</p>
 
 Trabalho atualmente com as seguintes tecnologias: 
 1. Node.js
