@@ -21,8 +21,22 @@ Trabalho atualmente com as seguintes tecnologias:
 
 <p align="justify">Estou disponível para conversas sobre tecnologias e desenvolvimento WEB, sigam-me nas redes sociais.</p>
 
-<img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiliocoelho&layout=compact&theme=dracula)](https://github.com/abiliocoelho/github-readme-statsl" />
-<img width="434px" src="https://github-readme-stats.vercel.app/api?username=abiliocoelho&theme=dracula&show_icons=true&hide=contribs,prs" />
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiliocoelho&layout=compact&langs_count=7&theme=dracula"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="200"
+      src="https://github-readme-stats.vercel.app/api?username=abiliocoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    />
+  </a>
+</p>
 
  
