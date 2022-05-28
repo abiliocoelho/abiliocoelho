@@ -36,11 +36,6 @@ Brazilian full stack developer. Javascript, React, React Native and Node.js enth
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" height="24px">
 </p>
 
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=abiliocoelho">
-</p>
-
 ## 📊 Github Status
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=abiliocoelho&show_icons=true"><p>
