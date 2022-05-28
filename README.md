@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Abílio Coelho
 
-<img width="100%" src="https://ibb.co/xSRcMW4" alt="my banner">
+<img width="100%" src="https://ibb.co/xSRcMW4/github-header-image.png" alt="my banner">
 
 Brazilian full stack developer. Javascript, React, React Native and Node.js enthusiast.
 
