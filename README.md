@@ -1,42 +1,48 @@
+# Hi there 👋, My name is Abílio Coelho
 
-# About me
-<a href="https://twitter.com/abilioscoelho"><img alt="Twitter Badge" src="https://img.shields.io/badge/-@abilioscoelho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/abilioscoelho"/></a>
-<a href="https://www.linkedin.com/in/abilio-coelho-0542a2132/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Abilio%20Coelho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abilio-coelho-0542a2132/"/></a>
-<a href="mailto:abiliocoelho@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-abiliocoelho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abiliocoelho@gmail.com"/></a>
+<img width="100%" src="https://ibb.co/xSRcMW4" alt="my banner">
 
-```javascript
-console.log('Olá meus amigos 👋 ')
-```
-<img align="right" src="https://github.com/abiliocoelho/abiliocoelho/blob/master/illustration.png" width="300"/>
-<p align="justify">Eu me chamo Abílio, sou professor de informática no Instituto Federal do Maranhão e sou apaixonado pela stack JS, a qual me tornei desenvolvedor full stack certificado pela Rocketseat.</p>
+Brazilian full stack developer. Javascript, React, React Native and Node.js enthusiast.
 
-Trabalho atualmente com as seguintes tecnologias: 
-1. Node.js
-2. React.js
-3. React Native
-4. NextJs
-5. Typescript
-6. GraphQL
-7. Strapi
+## 💫 Liitle Bit More About Me
+<p>🔭 I'm currently working on IFMA</p>
 
-<p align="justify">Estou disponível para conversas sobre tecnologias e desenvolvimento WEB, sigam-me nas redes sociais.</p>
-
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiliocoelho&layout=compact&langs_count=7&theme=dracula"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=abiliocoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    />
-  </a>
+## 💻 Skills
+<p>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
 </p>
 
- 
+## 👥 Connect With Me
+<p>
+<a href="https://linkedin.com/in/abilio-coelho-0542a2132"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://twitter.com/abilioscoelho"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://twitter.com/abiliocoelho#0634"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.instagram.com/abiliocoelgo"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://codepen.io/abiliocoelho"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+</p>
+
+## 🌟 Github Badges
+<p>
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height="24px">
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" height="24px">
+</p>
+
+## 🏆 GitHub Trophies
+
+<p><img src="https://github-profile-trophy.vercel.app/?username=abiliocoelho">
+</p>
+
+## 📊 Github Status
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=abiliocoelho&show_icons=true"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiliocoelho&layout=compact"><p>
