@@ -5,7 +5,7 @@
 Brazilian full stack developer. Javascript, React, React Native and Node.js enthusiast.
 
 ## 💫 Liitle Bit More About Me
-<p>🔭 I'm currently working on IFMA</p>
+<p>🔭 I'm currently working at IFMA</p>
 
 ## 💻 Skills
 <p>
